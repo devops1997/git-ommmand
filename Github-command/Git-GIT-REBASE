@@ -1,0 +1,4 @@
+git rebase -i
+<base>
+Interactively rebase current branch onto <base>. Launches editor to enter
+commands for how each commit will be transferred to the new base.
