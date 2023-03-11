@@ -1,7 +1,7 @@
 #   git branch
 
 
-ist all of the branches in your repo. Add a <branch> argument to
+List all of the branches in your repo. Add a <branch> argument to
 create a new branch with the name <branch> 
 
 #   git checkout -b <branch name>
